@@ -1,0 +1,11 @@
+.navbar-bottom.navbar {
+	align-items: center;
+}
+
+.navbar-top .container.navbar-container,
+.navbar-bottom .container.navbar-container {
+	display: flex;
+	justify-content: space-between;
+	padding: 0px 5%;
+	align-items: center;
+}
